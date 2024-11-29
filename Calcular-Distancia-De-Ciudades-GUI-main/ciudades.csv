@@ -1,0 +1,13 @@
+Origen,Destino,Distancia
+Medellín,Puerto Berrío,186
+Medellín,Puerto Triunfo,190
+Medellín,Manizales,200
+Puerto Berrío,Puerto Triunfo,129
+Puerto Triunfo,Honda,102
+Manizales,Honda,141
+Manizales,Ibagué,174
+Honda,Ibagué,141
+Honda,Girardot,138
+Honda,Bogotá,169
+Ibagué,Girardot,66
+Girardot,Bogotá,133
